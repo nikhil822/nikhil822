@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikhil Kumar Sahu
 - 👀 I’m interested in competitive programming and web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on any open source project
 
 <!---
