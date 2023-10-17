@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar Sahu</h1>
-<h3 align="center">A passionate fullstack developer and a competitive programmer from India</h3>
+<h3 align="center">A passionate MERN stack developer and a competitive programmer from India</h3>
 
 - 💬 Ask me about **React, Competitive programming**
 
