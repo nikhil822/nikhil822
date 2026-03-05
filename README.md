@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **KFin Technologies Ltd.**
 
-- 🌱 I’m currently learning **Next.js, AWS**
+- 🌱 I’m currently learning **Golang, LLD, HLD**
 
 - 👨‍💻 All of my projects are available at [https://nikhil-portfolio-delta.vercel.app/](https://nikhil-portfolio-delta.vercel.app/)
 
